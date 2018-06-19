@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
   s.tvos.deployment_target = '9.0'
 
-  s.homepage         = 'https://github.com/ChiliLabs/CHIPageControl'
+  s.homepage         = 'https://github.com/HooJY/CHIPageControl.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Chili' => 'studio@chi.lv' }
   s.source           = { :git => 'https://github.com/HooJY/CHIPageControl.git', :tag => s.version.to_s }
